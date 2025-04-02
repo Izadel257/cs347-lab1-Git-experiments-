@@ -1,4 +1,4 @@
-# cs244-lab-uno-experiments
+# CS347-Lab01-Git-Experiments
 This is a GitHub repo for experimental learning. 
 
 ## Part 1 

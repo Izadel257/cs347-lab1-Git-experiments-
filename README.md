@@ -1,7 +1,7 @@
 # CS347-Lab01-Git-Experiments
 This is a GitHub repo for experimental learning. 
 
-## Part 1 
+## Part I
 1. Go to git hub and create a new repository and give it the name
 2. Choose to keep the readme and choose a licence
 3. Go to settings and then add collaborators
@@ -24,3 +24,12 @@ This is a GitHub repo for experimental learning.
 8. Paul created a pull request via github where a description and comment was included.
 9. Mauricio reviewed and accepted (merged) the pull request
 10. Pulled the latest changes using `git pull` and performed a `git log` noticing that the merge from the checked out branch was performed successfully and logged in the git log.
+
+## Part III
+
+1. Edited the same file 
+2. one person add, committed and pushed changes 
+3. The second person did the same right after 
+4. A merge conflict occured
+5. The second person prompted in the terminal git merge
+6. Resolved the issue but accepting both changes in the editor, then added, committed and pushed

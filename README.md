@@ -11,4 +11,16 @@ This is a GitHub repo for experimental learning.
 7. Execute the command <git clone the link to clone the repo>
 8. Create the new file (no special commands if you are on vs code) or touch <filename> and  then vim <filename> to edit the file and then finally <:wq> to save the changes
 9. Do git add <filename> to add the file, then do git commit -m "commit message" to commit changes and then git push to show the changes
-10. Finally, go to git to view that the changes were posted. 
+10. Finally, go to git to view that the changes were posted.
+
+## Part II
+1. Executed `git log`
+2. Created a branch named "still_experimental"
+3. Created a file named "dog.txt" using `touch`
+4. Added the file to the staging area using `git add`
+5. Committed the change using `git commit`
+6. Pulled any new changes using `git pull`
+7. Pushed latest changes to github using `git push origin main`
+8. Paul created a pull request via github where a description and comment was included.
+9. Mauricio reviewed and accepted (merged) the pull request
+10. Pulled the latest changes using `git pull` and performed a `git log` noticing that the merge from the checked out branch was performed successfully and logged in the git log.
